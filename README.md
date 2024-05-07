@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HomeroY
 - 👀 I’m interested in Nuclear Engineering and Astrophysics 
-- 🌱 I’m currently learning so Python and Moose 
+- 🌱 I’m currently learning Python, Moose and OpemMc/Sn
 - 💞️ I’m looking to collaborate on nuclear reactors
 - 📫 How to reach me ...
 
